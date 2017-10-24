@@ -1,0 +1,12 @@
+{
+	"result" : 
+	[
+	{
+		"id" : 1
+		"name" : "Imarn"
+		"total_amount" : 236541
+		"collect_amount": 13654
+		"due_amount": 1254
+		}
+	]
+}
